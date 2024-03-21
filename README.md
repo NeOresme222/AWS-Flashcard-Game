@@ -8,5 +8,5 @@ This project 'AWS Flash' was developed in response to the challenge of making a 
 This is a 'Flashcard' based approach to studying AWS terms and services. Once the game is initialized, terms within the specified dictionary (AWSTerms) are selected at random and clues for each term are provided at random. Correct answers will advance the game while incorrect answers will be given multiple opportunities to answer correctly until all clues for said term are exhausted and then the term will be reshuffled in the remaining deck. Answer the questions pertaining to each clue to win!   
 
 ### To Play
-Open a terminal in the CTRL-ALT-ELITE folder and enter "python3 main.py" 
+Open a terminal in the AWS-Flashcard-Game folder and enter "python3 main.py" 
 
